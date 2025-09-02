@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+81
+'Buenas tardes, en este programa hallaremos la altura de un triangulo rectangulo'
+4
+1
+47
+'Por favor digite el valor de primer cateto a '
+5
+1
+1
+a
+4
+1
+41
+'Por favor digite el valor del cateto b '
+5
+1
+1
+b
+6
+1
+6
+altura
+15
+(a^2+b^2)^(1/2)
+4
+1
+47
+'La altura del triangulo rectangulo es ',altura
+1

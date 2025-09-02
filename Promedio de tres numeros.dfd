@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+34
+'Calcule el promedio de 3 numeros'
+5
+1
+1
+a
+5
+1
+1
+b
+5
+1
+1
+c
+6
+1
+1
+p
+9
+(a+b+c)/3
+4
+1
+30
+'El promedio del numero es.',p
+1
